@@ -27,7 +27,7 @@ function App() {
                            'a Team Member',
                            2000, // Waits 2s
                            'a Web Developer', // Types 'One'
-                           2000, // Types 'Three' without deleting 'Two'
+                           2000,
                         ]}
                         wrapper='span'
                         cursor={true}
