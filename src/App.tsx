@@ -177,10 +177,9 @@ function App() {
                      </p>
                      <div className='card-actions justify-center my-3'>
                         <div className='badge badge-outline'>React</div>
-                        <div className='badge badge-outline'>Vite.js</div>
+                        <div className='badge badge-outline'>Next.js</div>
                         <div className='badge badge-outline'>Typescript</div>
                         <div className='badge badge-outline'>TailwindCSS</div>
-                        <div className='badge badge-outline'>Python</div>
                         <div className='badge badge-outline'>Docker</div>
                      </div>
                      <div className='card-actions'>
